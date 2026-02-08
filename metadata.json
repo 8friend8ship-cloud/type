@@ -1,0 +1,7 @@
+{
+  "name": "Loyalty Autopsy",
+  "description": "An app that dries up romance with facts. It analyzes your emotional concerns with cold, hard logic and generates a cynical kinetic typography video of the 'autopsy report'.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
